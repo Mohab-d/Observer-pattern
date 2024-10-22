@@ -68,7 +68,7 @@ if (form.isInvalid) {
 
 ## Full Example
 
-```
+```typescript
 // create a form
 const form = new Form();
 
